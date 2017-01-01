@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.servlet;
+package com.google.plus.samples.quickstart;
 
 import com.google.api.client.auth.oauth2.TokenResponseException;
 import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeTokenRequest;
@@ -63,7 +63,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author joannasmith@google.com (Joanna Smith)
  * @author vicfryzel@google.com (Vic Fryzel)
  */
-public class signin {
+public class Signin {
   /*
    * Default HTTP transport to use to make HTTP requests.
    */

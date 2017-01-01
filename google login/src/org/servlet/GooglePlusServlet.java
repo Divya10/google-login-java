@@ -17,10 +17,10 @@ public class GooglePlusServlet extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public GooglePlusServlet() {
+   public GooglePlusServlet() {
         super();
         // TODO Auto-generated constructor stub
-    }
+   }
 
     
        private static final String CLIENT_ID = ":-  50376313406-hp2i1too98fc8nbgpd9cd0bvs0j4s0qj.apps.googleusercontent.com"; 
