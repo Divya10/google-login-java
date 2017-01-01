@@ -24,7 +24,7 @@ function onSignIn(googleUser) {
   var id_token = googleUser.getAuthResponse().id_token;
    console.log("ID Token: " + id_token);
   
-   var redirectUrl = 'login';
+   var redirectUrl ='login';
 
    
    var form = $('<form action="' + redirectUrl + '" method="post">' +
